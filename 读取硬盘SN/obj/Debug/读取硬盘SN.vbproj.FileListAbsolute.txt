@@ -1,0 +1,30 @@
+C:\Users\Eryu\AppData\Local\Temporary Projects\读取硬盘SN\bin\Debug\读取硬盘SN.exe
+C:\Users\Eryu\AppData\Local\Temporary Projects\读取硬盘SN\bin\Debug\读取硬盘SN.pdb
+C:\Users\Eryu\AppData\Local\Temporary Projects\读取硬盘SN\bin\Debug\读取硬盘SN.xml
+C:\Users\Eryu\AppData\Local\Temporary Projects\读取硬盘SN\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eryu\AppData\Local\Temporary Projects\读取硬盘SN\obj\Debug\读取硬盘SN.Form1.resources
+C:\Users\Eryu\AppData\Local\Temporary Projects\读取硬盘SN\obj\Debug\读取硬盘SN.Resources.resources
+C:\Users\Eryu\AppData\Local\Temporary Projects\读取硬盘SN\obj\Debug\读取硬盘SN.vbproj.GenerateResource.Cache
+C:\Users\Eryu\AppData\Local\Temporary Projects\读取硬盘SN\obj\Debug\读取硬盘SN.exe
+C:\Users\Eryu\AppData\Local\Temporary Projects\读取硬盘SN\obj\Debug\读取硬盘SN.xml
+C:\Users\Eryu\AppData\Local\Temporary Projects\读取硬盘SN\obj\Debug\读取硬盘SN.pdb
+C:\Users\Eryu\Desktop\读取硬盘SN\读取硬盘SN\obj\Debug\读取硬盘SN.exe
+C:\Users\Eryu\Desktop\读取硬盘SN\读取硬盘SN\obj\Debug\读取硬盘SN.xml
+C:\Users\Eryu\Desktop\读取硬盘SN\读取硬盘SN\obj\Debug\读取硬盘SN.pdb
+C:\Users\Eryu\Desktop\读取硬盘SN\读取硬盘SN\bin\Debug\读取硬盘SN.exe
+C:\Users\Eryu\Desktop\读取硬盘SN\读取硬盘SN\bin\Debug\读取硬盘SN.pdb
+C:\Users\Eryu\Desktop\读取硬盘SN\读取硬盘SN\bin\Debug\读取硬盘SN.xml
+C:\Users\Eryu\Desktop\读取硬盘SN\读取硬盘SN\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eryu\Desktop\读取硬盘SN\读取硬盘SN\obj\Debug\读取硬盘SN.Form1.resources
+C:\Users\Eryu\Desktop\读取硬盘SN\读取硬盘SN\obj\Debug\读取硬盘SN.Resources.resources
+C:\Users\Eryu\Desktop\读取硬盘SN\读取硬盘SN\obj\Debug\读取硬盘SN.vbproj.GenerateResource.Cache
+C:\Users\Jason\Desktop\读取硬盘SN\读取硬盘SN\obj\Debug\读取硬盘SN.exe
+C:\Users\Jason\Desktop\读取硬盘SN\读取硬盘SN\obj\Debug\读取硬盘SN.xml
+C:\Users\Jason\Desktop\读取硬盘SN\读取硬盘SN\obj\Debug\读取硬盘SN.pdb
+C:\Users\Jason\Desktop\读取硬盘SN\读取硬盘SN\bin\Debug\读取硬盘SN.exe
+C:\Users\Jason\Desktop\读取硬盘SN\读取硬盘SN\bin\Debug\读取硬盘SN.pdb
+C:\Users\Jason\Desktop\读取硬盘SN\读取硬盘SN\bin\Debug\读取硬盘SN.xml
+C:\Users\Jason\Desktop\读取硬盘SN\读取硬盘SN\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\读取硬盘SN\读取硬盘SN\obj\Debug\读取硬盘SN.Form1.resources
+C:\Users\Jason\Desktop\读取硬盘SN\读取硬盘SN\obj\Debug\读取硬盘SN.Resources.resources
+C:\Users\Jason\Desktop\读取硬盘SN\读取硬盘SN\obj\Debug\读取硬盘SN.vbproj.GenerateResource.Cache
